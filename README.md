@@ -5,11 +5,11 @@ A multi input and output audio switch with an integrated, toggleable Hifi phono 
 
 
 ## Shortcuts
-[Features](#features)
-[What is it?](#what-is-it)
-[Resources](#resources)
-[Bill Of Materials](#bill-of-materials)
-[Photos](#photos)
+- [Features](#features)
+- [What is it?](#what-is-it)
+- [Resources](#resources)
+- [Bill Of Materials](#bill-of-materials)
+- [Photos](#photos)
 
 ## Audioswitchinator Zine
 
