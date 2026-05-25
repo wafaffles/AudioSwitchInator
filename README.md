@@ -1,7 +1,7 @@
-# AudioSwitchInator
+# Audiowwitchinator
 A multi input and output audio switch with an integrated, toggleable Hifi phono preamp
 
-<img width="1767" height="1100" alt="{3E73A0C6-D57F-4857-871F-70558884C574}" src="https://github.com/user-attachments/assets/91abb466-0ec6-4ddd-9d09-27e7cf5bba1d" />
+![Render of Audioswitchinator in case](/Images/Audioswitchinator_Render.png)
 
 
 ## Shortcuts
@@ -10,6 +10,10 @@ A multi input and output audio switch with an integrated, toggleable Hifi phono 
 [Resources](#resources)
 [Bill Of Materials](#bill-of-materials)
 [Photos](#photos)
+
+## Audioswitchinator Zine
+
+![Audioswitchinator Zine](Images/Audioswitchinator_Zine_4.png)
 
 ## Features
 - 4 Inputs
@@ -33,9 +37,9 @@ The case is fully 3d printed with use of a few M4 bolts and heatset inserts, but
 
 CAD Link: https://cad.onshape.com/documents/9e04128c642e582e05c8193e/w/29af00c33977f5103195c9e0/e/9dcbf64564f57b3e7e8e01ad?renderMode=0&uiState=6a12269c000845437493f06b
 
-CAD Files: 
+CAD Files: [HERE](/Models)
 
-ECAD Files: 
+Production Files: [HERE](/Models)
 
 ## Bill Of Materials
 
@@ -47,5 +51,50 @@ ECAD Files:
 
 ## Photos
 
-<img width="1367" height="983" alt="{611452CE-2C5E-495D-A7D2-381259C73CCD}" src="https://github.com/user-attachments/assets/b4f12bd9-a72e-4403-8d70-65a6ed4f5600" />
-<img width="1302" height="770" alt="{40D04CFF-B272-413E-BA95-CC3D5816646A}" src="https://github.com/user-attachments/assets/f1f8da6d-685c-46eb-b62a-fd03642a8371" />
+Audioswitchinator Case Front
+
+![Audioswitchinator Case Front](/Images/Audioswitchinator_Case_Front.png)
+
+Audioswitchinator Case Back
+
+![Audioswitchinator Case Back](Images/Audioswitchinator_Case_Back.png)
+
+Audioswitchinator Case Inside
+
+![Audioswitchinator Case Inside](Images/Audioswitchinator_Case_Empty.png)
+
+PCB All Layers
+
+![PCB All Layers](Images/Audiswitchinator_PCB.png)
+
+PCB F.Cu Layer
+
+![PCB F.Cu Layer](Images/Audioswitchinator_F.Cu.png)
+
+PCB In1.Cu Layer
+
+![PCB In1.Cu Layer](Images/Audioswitchinator_In1.Cu.png)
+
+PCB In2.Cu Layer
+
+![PCB In2.Cu Layer](Images/Audioswitchinator_In2.Cu.png)
+
+PCB B.Cu Layer
+
+![PCB B.Cu Layer](Images/Audioswitchinator_B.CU.png)
+
+Fromt of PCB
+
+![Front of PCB](Images/Audioswitchinator_Front.png)
+
+Back of PCB
+
+![Back of PCB](Images/Audioswitchinator_Back.png)
+
+## Credits
+
+This project uses:
+
+- [KiCad](https://www.kicad.org/)
+- [Figma](https://www.figma.com/)
+- [Hack Club Fallout](https://fallout.hackclub.com/path)
