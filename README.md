@@ -39,15 +39,13 @@ CAD Link: https://cad.onshape.com/documents/9e04128c642e582e05c8193e/w/29af00c33
 
 CAD Files: [HERE](/Models)
 
+ECAD Files: [HERE](/Models)
+
 Production Files: [HERE](/Models)
 
 ## Bill Of Materials
 
-| Item | Qty | Source | Price |
-|:-----:|:-----:|:-----:|:-----:|
-| ex | ex | ex | ex |
-| ex | ex | ex | ex |
-| ex | ex | ex | ex |
+Bill of Materials: [HERE](https://docs.google.com/spreadsheets/d/1tNDlkv8S-ZhfvEyZw77WZDcWJRZpA8B7S98ZAzSkEbk/edit?usp=sharing)
 
 ## Photos
 
