@@ -1,4 +1,4 @@
-# Audiowwitchinator
+# Audioswitchinator
 A multi input and output audio switch with an integrated, toggleable Hifi phono preamp
 
 ![Render of Audioswitchinator in case](/Images/Audioswitchinator_Render.png)
@@ -67,7 +67,7 @@ Audioswitchinator Case Inside
 
 PCB All Layers
 
-![PCB All Layers](Images/Audiswitchinator_PCB.png)
+![PCB All Layers](Images/Audioswitchinator_PCB.png)
 
 PCB F.Cu Layer
 
