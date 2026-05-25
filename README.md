@@ -49,6 +49,10 @@ Bill of Materials: [HERE](https://docs.google.com/spreadsheets/d/1tNDlkv8S-ZhfvE
 
 ## Photos
 
+Audioswitchinator PCB Schematic
+
+![Audioswitchinator PCB Schematic](Images/Audioswitchinator_Schematic_Page.jpg)
+
 Audioswitchinator Case Front
 
 ![Audioswitchinator Case Front](/Images/Audioswitchinator_Case_Front.png)
