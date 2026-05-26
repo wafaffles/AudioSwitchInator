@@ -8,6 +8,7 @@ A multi input and output audio switch with an integrated, toggleable Hifi phono 
 - [Features](#features)
 - [What is it?](#what-is-it)
 - [Resources](#resources)
+- [Assembly](#assembly)
 - [Bill Of Materials](#bill-of-materials)
 - [Photos](#photos)
 
@@ -42,6 +43,10 @@ CAD Files: [HERE](/Models)
 ECAD Files: [HERE](/Models)
 
 Production Files: [HERE](/Models)
+
+## Assembly
+
+To start, you will need to have access to a 3D printer with a build volume of at least 160x80mm and about 100-120g of filament of your choice. You then need to order all the parts and PCB and have proper resources to solder these components. Once soldered together where listed in the schematic, then with the bottom part of the case, insert the 8 heatset inserts if you choose not to modify the design to use those. Once all the heatset inserts are installed, you should be able to screw in the PCB, then screw on the top, and it should be working there!
 
 ## Bill Of Materials
 
