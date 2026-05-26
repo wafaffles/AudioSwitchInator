@@ -46,7 +46,20 @@ Production Files: [HERE](/Models)
 
 ## Assembly
 
-To start, you will need to have access to a 3D printer with a build volume of at least 160x80mm and about 100-120g of filament of your choice. You then need to order all the parts and PCB and have proper resources to solder these components. Once soldered together where listed in the schematic, then with the bottom part of the case, insert the 8 heatset inserts if you choose not to modify the design to use those. Once all the heatset inserts are installed, you should be able to screw in the PCB, then screw on the top, and it should be working there!
+You will need:
+- PCB from files
+- Soldering Iron & Solder
+- All components from [BOM](https://docs.google.com/spreadsheets/d/1tNDlkv8S-ZhfvEyZw77WZDcWJRZpA8B7S98ZAzSkEbk/edit?usp=sharing.)
+- Matching screwdriver to screw set (allen key in provided kit)
+- Small pair of tweasers
+
+To start, you will need to have access to a 3D printer with a build volume of at least 160x80mm and about 100-120g of filament of your choice.
+
+You then need to order all the parts and PCB and have proper resources to solder these components. Once you have these, solder all components on as specified in the schematic.
+
+Once soldered together where listed in the schematic, then with the bottom part of the case, insert the 8 heatset inserts if you choose not to modify the design to use those. To insert heatset inserts, get the largest tip that fits inside the heatset insert and install it on your soldering iron. Now, place the insert where it goes and insert the tip into the center of the insert snd heat it while applying slight downward force until it is flush with the surface. A small pair of tweasers may be helpful to reorient it.
+
+Once all the heatset inserts are installed, you should be able to screw in the PCB, then screw on the top, and it should be working there!
 
 ## Bill Of Materials
 
