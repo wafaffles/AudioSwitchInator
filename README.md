@@ -14,7 +14,7 @@ A multi input and output audio switch with an integrated, toggleable Hifi phono 
 
 ## Audioswitchinator Zine
 
-![Audioswitchinator Zine](Images/Audioswitchinator_Zine_4.png)
+![Audioswitchinator Zine](Images/Audioswitchinator_Zine_5.png)
 
 ## Features
 - 4 Inputs
