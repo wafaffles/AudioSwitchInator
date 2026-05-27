@@ -40,9 +40,9 @@ CAD Link: https://cad.onshape.com/documents/9e04128c642e582e05c8193e/w/29af00c33
 
 CAD Files: [HERE](/Models)
 
-ECAD Files: [HERE](/Models)
+ECAD Files: [HERE](/Models/ECAD/)
 
-Production Files: [HERE](/Models)
+Production Files: [HERE](/Other Resources/)
 
 ## Assembly
 
