@@ -42,7 +42,7 @@ CAD Files: [HERE](/Models)
 
 ECAD Files: [HERE](/Models/ECAD/)
 
-Production Files: [HERE](/Other Resources/)
+Production Files: [HERE](/Resources/)
 
 ## Assembly
 
